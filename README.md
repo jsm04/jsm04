@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=1000&color=38F76B&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+J%24M.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=1000&color=38F76B&center=true&vCenter=true&multiline=true&random=false&width=640&height=360&lines=Hi+there!+I'm+J%24M.;Fullstack+web+dev)](https://git.io/typing-svg)
 
 ## Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
